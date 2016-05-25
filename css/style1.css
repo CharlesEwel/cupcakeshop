@@ -1,0 +1,17 @@
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+h1{
+  font-family: Arial;
+}
+
+h2{
+  font-family: Courier;
+}
+
+.best{
+  color: gold;
+  font-weight: bold;
+}
